@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2000 3000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-2655)">
+        <g id="Colors" transform="matrix(1,0,0,1,0,-0.108132)">
+            <rect x="0" y="2655.11" width="2000" height="3000" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="0" y="2655.11" width="2000" height="3000"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="koinos-deep-puple" transform="matrix(2.65535,0,0,1.32767,-1079.46,2602.72)">
+                    <rect x="406.524" y="39.542" width="753.197" height="753.197" style="fill:rgb(37,23,78);"/>
+                    <g transform="matrix(0.166355,0,0,0.332709,452.772,-450.808)">
+                        <text x="223.104px" y="3430.14px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:392.901px;fill:white;">2<tspan x="445.486px 662.76px 826.206px 1013.62px " y="3430.14px 3430.14px 3430.14px 3430.14px ">5174</tspan>E</text>
+                    </g>
+                    <g transform="matrix(0.376599,0,0,0.753197,461.206,-1660.62)">
+                        <text x="75.506px" y="2871.21px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:74.231px;fill:white;">HSL: 2<tspan x="290.106px " y="2871.21px ">5</tspan>5,54,20</text>
+                        <text x="75.506px" y="2949.15px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:74.231px;fill:white;">RGB: 37,2<tspan x="398.483px " y="2949.15px ">3</tspan>,7<tspan x="499.511px " y="2949.15px ">8</tspan></text>
+                    </g>
+                    <g transform="matrix(0.376599,0,0,0.753197,402.064,-2041.88)">
+                        <text x="75.506px" y="2871.21px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:72px;fill:white;">K<tspan x="119.786px " y="2871.21px ">o</tspan>ino<tspan x="261.77px " y="2871.21px ">s</tspan> Deep Purple</text>
+                    </g>
+                </g>
+                <g id="accent-yellow" transform="matrix(1.32767,0,0,1.32767,-539.731,3602.72)">
+                    <rect x="406.524" y="39.542" width="753.197" height="753.197" style="fill:rgb(255,207,33);"/>
+                    <g transform="matrix(0.332709,0,0,0.332709,499.02,-450.808)">
+                        <text x="223.104px" y="3430.14px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:392.901px;fill:white;">FFCF21</text>
+                    </g>
+                    <g transform="matrix(0.753197,0,0,0.753197,515.889,-1660.62)">
+                        <text x="75.506px" y="2871.21px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:74.231px;fill:white;">HSL: 4<tspan x="291.146px " y="2871.21px ">7</tspan>,100,56</text>
+                        <text x="75.506px" y="2949.15px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:74.231px;fill:white;">RGB: 2<tspan x="297.084px " y="2949.15px ">5</tspan>5,20<tspan x="487.411px " y="2949.15px ">7</tspan>,33</text>
+                    </g>
+                    <g transform="matrix(0.753197,0,0,0.753197,397.605,-2041.88)">
+                        <text x="75.506px" y="2871.21px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:72px;fill:white;">A<tspan x="118.706px " y="2871.21px ">c</tspan>cen<tspan x="281.138px " y="2871.21px ">t</tspan> Y<tspan x="371.858px " y="2871.21px ">e</tspan>llo<tspan x="485.69px " y="2871.21px ">w</tspan></text>
+                    </g>
+                </g>
+                <g id="almost-black" transform="matrix(1.32767,0,0,1.32767,-539.731,4602.72)">
+                    <rect x="406.524" y="39.542" width="753.197" height="753.197" style="fill:rgb(9,2,33);"/>
+                    <g transform="matrix(0.332709,0,0,0.332709,499.02,-450.808)">
+                        <text x="223.104px" y="3430.14px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:392.901px;fill:white;">090221</text>
+                    </g>
+                    <g transform="matrix(0.753197,0,0,0.753197,515.889,-1660.62)">
+                        <text x="75.506px" y="2871.21px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:74.231px;fill:white;">HSL: 2<tspan x="290.106px " y="2871.21px ">5</tspan>4,89,7</text>
+                        <text x="75.506px" y="2949.15px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:74.231px;fill:white;">RGB: 9,2,33</text>
+                    </g>
+                    <g transform="matrix(0.753197,0,0,0.753197,397.605,-2041.88)">
+                        <text x="75.506px" y="2871.21px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:72px;fill:white;">Almo<tspan x="236.93px 272.858px " y="2871.21px 2871.21px ">st</tspan> Black</text>
+                    </g>
+                </g>
+                <g id="almost-white" transform="matrix(1.32767,0,0,1.32767,460.269,4602.72)">
+                    <rect x="406.524" y="39.542" width="753.197" height="753.197" style="fill:rgb(245,245,245);"/>
+                    <g transform="matrix(0.332709,0,0,0.332709,499.02,-450.808)">
+                        <text x="223.104px" y="3430.14px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:392.901px;fill:rgb(37,37,37);">F5F5F5</text>
+                    </g>
+                    <g transform="matrix(0.753197,0,0,0.753197,515.889,-1660.62)">
+                        <text x="75.506px" y="2871.21px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:74.231px;fill:rgb(37,37,37);">HSL: 0,0,96</text>
+                        <text x="75.506px" y="2949.15px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:74.231px;fill:rgb(37,37,37);">RGB: 2<tspan x="294.857px " y="2949.15px ">4</tspan>5, 2<tspan x="462.544px " y="2949.15px ">4</tspan>5, 2<tspan x="630.231px " y="2949.15px ">4</tspan>5</text>
+                    </g>
+                    <g transform="matrix(0.753197,0,0,0.753197,397.605,-2041.88)">
+                        <text x="75.506px" y="2871.21px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:72px;fill:rgb(37,37,37);">Almo<tspan x="236.93px 272.858px " y="2871.21px 2871.21px ">st</tspan> Whit<tspan x="477.698px " y="2871.21px ">e</tspan></text>
+                    </g>
+                </g>
+                <g id="light-purple" transform="matrix(1.32767,0,0,1.32767,460.269,3602.72)">
+                    <rect x="406.524" y="39.542" width="753.197" height="753.197" style="fill:rgb(111,0,246);"/>
+                    <g transform="matrix(0.332709,0,0,0.332709,499.02,-450.808)">
+                        <text x="223.104px" y="3430.14px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:392.901px;fill:white;">2<tspan x="445.486px 662.76px 826.206px 1013.62px " y="3430.14px 3430.14px 3430.14px 3430.14px ">5174</tspan>E</text>
+                    </g>
+                    <g transform="matrix(0.753197,0,0,0.753197,515.889,-1660.62)">
+                        <text x="75.506px" y="2871.21px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:74.231px;fill:white;">HSL: 2<tspan x="290.106px " y="2871.21px ">5</tspan>5,54,20</text>
+                        <text x="75.506px" y="2949.15px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:74.231px;fill:white;">RGB: 111,0,2<tspan x="470.338px " y="2949.15px ">4</tspan>6</text>
+                    </g>
+                    <g transform="matrix(0.753197,0,0,0.753197,397.605,-2041.88)">
+                        <text x="75.506px" y="2871.21px" style="font-family:'SpaceGrotesk-Medium', 'Space Grotesk';font-weight:500;font-size:72px;fill:white;">Secondar<tspan x="393.962px " y="2871.21px ">y</tspan> Purple</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
