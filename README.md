@@ -6,11 +6,11 @@ This repo includes the Koinos branding guidelines and assets. Each element has b
 ### Colors
 | Name | Hex Code | Swatch |
 |:--------|:-------------:|:-------------:|
-| Koinos Deep Purple | 25174E |![Koinos Deep Purple Swatch]
+| Koinos Deep Purple | 25174E |![Koinos Deep Purple Swatch](assets/colors/koinos-deep-purple.png)
 | Secondary Purple | 6F00F6 |![Secondary Purple Swatch](./assets/colors/secondary-purple.png)
-| Accent Yellow | FFCF21 |![Accent Yellow Swatch](https://raw.githubusercontent.com/open-orchard/koinos-branding/master/assets/colors/accent-yellow.png?token=AAARC44RKG36HD5YIO5VKLC7SMPFM)
-| Almost Black | 090221 |![Almost Black Swatch](https://raw.githubusercontent.com/open-orchard/koinos-branding/master/assets/colors/almost-black.png?token=AAARC46PDRYKTG2WY27LZP27SMPHM)
-| Almost White | F5F5F5 |![Almost White Swatch](https://raw.githubusercontent.com/open-orchard/koinos-branding/master/assets/colors/almost-white.png?token=AAARC46YZH2MDRUAOS2ORTC7SMPIY)
+| Accent Yellow | FFCF21 |![Accent Yellow Swatch](./assets/colors/accent-yellow.png)
+| Almost Black | 090221 |![Almost Black Swatch](./assets/colors/almost-black.png)
+| Almost White | F5F5F5 |![Almost White Swatch](./assets/colors/almost-white.png)
 
 ### Typeface
 Koinos typeface is [Space Grotesk](https://fonts.floriankarsten.com/space-grotesk) 
