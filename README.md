@@ -6,8 +6,8 @@ This repo includes the Koinos branding guidelines and assets. Each element has b
 ### Colors
 | Name | Hex Code | Swatch |
 |:--------|:-------------:|:-------------:|
-| Koinos Deep Purple | 25174E |![Koinos Deep Purple Swatch](https://raw.githubusercontent.com/open-orchard/koinos-branding/master/assets/colors/koinos-deep-purple.png?token=AAARC47XBMIIDIVFO4TKUES7SMPKK)
-| Secondary Purple | 6F00F6 |![Secondary Purple Swatch](https://raw.githubusercontent.com/open-orchard/koinos-branding/master/assets/colors/secondary-purple.png?token=AAARC44ZFMUSPNHBMUWTA327SMPLY)
+| Koinos Deep Purple | 25174E |![Koinos Deep Purple Swatch]
+| Secondary Purple | 6F00F6 | <span style="color:6F00F6">Secondary Purple Swatch</span>
 | Accent Yellow | FFCF21 |![Accent Yellow Swatch](https://raw.githubusercontent.com/open-orchard/koinos-branding/master/assets/colors/accent-yellow.png?token=AAARC44RKG36HD5YIO5VKLC7SMPFM)
 | Almost Black | 090221 |![Almost Black Swatch](https://raw.githubusercontent.com/open-orchard/koinos-branding/master/assets/colors/almost-black.png?token=AAARC46PDRYKTG2WY27LZP27SMPHM)
 | Almost White | F5F5F5 |![Almost White Swatch](https://raw.githubusercontent.com/open-orchard/koinos-branding/master/assets/colors/almost-white.png?token=AAARC46YZH2MDRUAOS2ORTC7SMPIY)
