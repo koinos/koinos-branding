@@ -1,0 +1,20 @@
+{
+  "images" : [
+    {
+      "size" : "1155x1155",
+      "idiom" : "mac",
+      "filename" : "Koinos Mark Dark.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "x",
+      "idiom" : "mac",
+      "filename" : "Koinos Mark Dark.svg",
+      "scale" : "x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

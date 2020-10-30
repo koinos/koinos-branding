@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "size" : "x",
+      "idiom" : "mac",
+      "filename" : "Koinos Logo .pdf",
+      "scale" : "x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
