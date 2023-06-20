@@ -8,7 +8,7 @@ This repo includes the Koinos branding guidelines and assets. Each element has b
 | Name | Hex Code | Swatch |
 |:--------|:-------------:|:-------------:|
 | Koinos Deep Purple | 25174E |![Koinos Deep Purple Swatch](assets/colors/koinos-deep-purple.png)
-| Secondary Purple | 6F00F6 |![Secondary Purple Swatch](./assets/colors/secondary-purple.png)
+| Secondary Purple | 6F00F6 |![Secondary Purple Swatch](./assets/colors/koinos-purple.png)
 | Accent Yellow | FFCF21 |![Accent Yellow Swatch](./assets/colors/accent-yellow.png)
 | Almost Black | 090221 |![Almost Black Swatch](./assets/colors/almost-black.png)
 | Almost White | F5F5F5 |![Almost White Swatch](./assets/colors/almost-white.png)
